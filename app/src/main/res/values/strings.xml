@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Practica5IntentImplicito</string>
+    <string name="btn1">intent1</string>
+    <string name="btn2">llamar</string>
+    <string name="btn3">navegador</string>
+</resources>
